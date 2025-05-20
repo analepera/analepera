@@ -10,36 +10,35 @@ I like to explore new data analysis tools and techniques, so I'm always looking 
 In my free time, I enjoy socialising with friends and family, the outdoors, cycling, volleyball, the gym and all that physical movement that compensates for my sitting down work in my hyper-focused moments.
 
 ## Table of Contents
-### Portfolio Projects
+### **Portfolio Projects**
+      - R
+      - Excel
+      - SQL
+      - Power BI
+
+### **Education**
   
-      R
-      Excel
-      SQL
-      Power Bi
+University of Buenos Aires, Argentina: *PhD in Social Sciences* - Phd, Sociology and Health, Feb 2018 - Jun 2025 (Awaiting thesis defense)
 
-### Education
-  
-University of Buenos Aires, Argentina: PhD in Social Sciences - Phd, Sociology and Health, Feb 2018 - Jun 2025 (Awaiting thesis defense)
+University of Buenos Aires, Argentina: *Professor's degree*, Teaching and Sociology, 2016
 
-University of Buenos Aires, Argentina: Professor's degree, Teaching and Sociology, 2016
+University of Buenos Aires, Argentina: *Degree in Sociology*, 2009 - 2015 (Honorary title)	
 
-University of Buenos Aires, Argentina: Bachelor's degree in Sociology, 2009 - 2015 (Honorary title)	
+### **Certificates**
 
-### Certificates
+Coder House: *"Data Analitycs"*, 2025
 
-Coder House: "Data Analitycs", 2025
+Cousera: *"Google Project Management: Specialization"*, 2025
 
-Cousera: "Google Project Management: Specialization", 2025
-
-### Research grants
+### **Research grants**
 
 “National Council for Scientific and Technical Research”, Argentina: 2021 - 2024
 
 “National Agency for the Promotion of Research, Technological Development and Innovation”, Argentina: 2018 - 2021
 
-### Experience
+### **Experience**
 
-Research Fellow (Agencia I+D+I – FONCyT - CONICET – CEDES), Argentina: 2018 - 2024
+*Research Fellow* (Agencia I+D+I – FONCyT - CONICET – CEDES), Argentina: 2018 - 2024
 -	Conducted data analysis on healthcare access, identifying disparities and proposing actionable solutions that impacted public health policies for vulnerable groups.
 -	Delivered data visualization and statistical insights in over 6 reports and presentations to both academic and public audiences.
 -	Applied data management techniques to ensure the integrity and accuracy of research data, leading to the publication of 3 peer-reviewed papers. 
@@ -47,15 +46,15 @@ Research Fellow (Agencia I+D+I – FONCyT - CONICET – CEDES), Argentina: 2018 
 -	Conducted extensive statistical analysis to evaluate the effectiveness of public policies in addressing social inequities, contributing to impactful recommendations for improvement.
 -	Authored 4 technical reports that informed national policy changes, directly impacting the design of public programs. 
 
-Analyst – Human Resources Area (CONICET), Argentina: 2015 - 2018
-Managed data analysis and project coordination for HR initiatives, analysing and managing data related to workplace dynamics and employee well-being, with a focus on social aspects of workplace policies and practices.
+*Analyst – Human Resources Area* (CONICET), Argentina: 2015 - 2018
+- Managed data analysis and project coordination for Human Resources initiatives, analysing and managing data related to workplace dynamics and employee well-being, with a focus on social aspects of workplace policies and practices.
 -	Designed and analysed data matrices for HR projects, contributed to the successful redesign of HR workflows, resulting in a 15% increase in operational efficiency.
 -	Managed training and development sessions for over 60 employees, helping to inform strategies for workplace sustainability and inclusivity, and leading to a 25% reduction in report preparation time.
 -	Coordinated the creation of the “Action Protocol for the Prevention, Dissemination, and Training in Workplace Violence,” impacting 100% staff members of the country.
 
-### Contact
+### **Contact**
 
-LinkedIn: @anabella-le-pera
+LinkedIn: [@anabella-le-pera](https://www.linkedin.com/in/anabella-le-pera) 
 
 Email: analepera@gmail.com
 
