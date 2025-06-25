@@ -1,7 +1,9 @@
+![4](https://github.com/user-attachments/assets/6c785d64-57bd-4e4d-a6dd-ab4b2d57effb)
+
 # About Me
 This respository is for you to know me.
 
-I am Anabella, a sociologist trained to ask questions, but don't get me wrong, what I am looking for is to know more in order to gain precision to make better decisions. I have an analytical background in Social Sciences and currently, I am awaiting the defence of my doctoral thesis (PhD in Social Sciences). I have developed a strong background in sociology and health (due to my thesis on adherence to a health process and its accessibility conditions). I have a passion for using data to uncover relationships that are not intuitive and test those that are.
+My name is Anabella, I'm a sociologist trained to ask questions, but don't get me wrong, what I am looking for is to know more in order to gain precision to make better decisions. I have an analytical background in Social Sciences and currently, I am awaiting the defence of my doctoral thesis (PhD in Social Sciences). I have developed a strong background in sociology and health (due to my thesis on adherence to health process and its accessibility conditions). I have a passion for using data to uncover relationships that are not intuitive and test those that are.
 
 Over the past ten years I honed my ability to work with complex data and to develop strategies for coping with adversity and overcoming it when possible. I also gained experience in research methodologies, data management and statistical analysis (descriptive and predictive - such as logistic regressions), which I believe will be valuable assets in my role as a data specialist.
 
@@ -13,7 +15,7 @@ In my free time, I enjoy socialising with friends and family, the outdoors, cycl
 ### **Portfolio Projects**
       - R
       - Excel
-      - SQL
+      - SQL Server
       - Power BI
 
 ### **Education**
