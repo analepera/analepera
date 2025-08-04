@@ -4,7 +4,7 @@
 This respository is for you to know me.
 
 * I have a PhD in Social Sciences and a degree in Sociology (University of Buenos Aires), and Data Analytics by Coderhouse.
-* I am looking for job opportunities in the IT sector, with the best of me: data / research / insights.
+* I am looking for job opportunities in Research, Data Analytics, People Analytics or Social Impact teams.
 
 # About Me
 * My name is Anabella, I'm a sociologist trained to ask questions, but don't get me wrong, what I am looking for is to know more in order to gain precision to make better decisions. 
