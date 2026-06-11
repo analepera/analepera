@@ -29,7 +29,8 @@ In my free time I enjoy socialising, the outdoors, cycling, volleyball, the gym 
       - R
       - Excel
       - SQL
-      - Power BI
+      - Power BI 
+      - Tableau
 
 ### **Education**
   
